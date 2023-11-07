@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/richm/OneDrive/Documents/Unreal Projects/FirstProject2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/richm/OneDrive/Documents/Unreal Projects/FirstProject2/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/Users/richm/OneDrive/Documents/Unreal Projects/FirstProject2/Content/StarterContent/Maps/PostPorcessExample.umap",
+				"C:/Users/richm/OneDrive/Documents/Unreal Projects/FirstProject2/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"C:/Users/richm/OneDrive/Documents/Unreal Projects/FirstProject2/Content/StarterContent/Props/Materials/M_TableRound.uasset",
+				"C:/Users/richm/OneDrive/Documents/Unreal Projects/FirstProject2/Content/MyStuff/MaterialExampleLevel.umap",
+				"C:/Users/richm/OneDrive/Documents/Unreal Projects/FirstProject2/Content/MyStuff/FirstMaterial.uasset",
+				"C:/Users/richm/OneDrive/Documents/Unreal Projects/FirstProject2/Content/MyStuff/SpanishPavement_basecolor.uasset",
+				"C:/Users/richm/OneDrive/Documents/Unreal Projects/FirstProject2/Content/MyStuff/SpanishPavement_normal.uasset",
+				"C:/Users/richm/OneDrive/Documents/Unreal Projects/FirstProject2/Content/MyStuff/SpanishPavement_Roughness.uasset",
+				"C:/Users/richm/OneDrive/Documents/Unreal Projects/FirstProject2/Content/MyStuff/M_SpanishPavement.uasset",
+				"C:/Users/richm/OneDrive/Documents/Unreal Projects/FirstProject2/Content/MyStuff/SpanishPavement_basecolor_Mat.uasset",
+				"C:/Users/richm/OneDrive/Documents/Unreal Projects/FirstProject2/Content/MyStuff/SpanishPavement_Mat.uasset",
+				"C:/Users/richm/OneDrive/Documents/Unreal Projects/FirstProject2/Content/MyStuff/SpanishPavement_Roughness_Mat.uasset",
+				"C:/Users/richm/OneDrive/Documents/Unreal Projects/FirstProject2/Content/MyStuff/MI_SpanishPavement_Inst.uasset",
+				"C:/Users/richm/OneDrive/Documents/Unreal Projects/FirstProject2/Content/MyStuff/M_MasterMaterial.uasset",
+				"C:/Users/richm/OneDrive/Documents/Unreal Projects/FirstProject2/Content/MyStuff/WoodenCrate/WoodCrate.uasset",
+				"C:/Users/richm/OneDrive/Documents/Unreal Projects/FirstProject2/Content/MyStuff/WoodenCrate/WoodCrate_BaseColor.uasset",
+				"C:/Users/richm/OneDrive/Documents/Unreal Projects/FirstProject2/Content/MyStuff/WoodenCrate/WoodCrate_Metallic.uasset",
+				"C:/Users/richm/OneDrive/Documents/Unreal Projects/FirstProject2/Content/MyStuff/WoodenCrate/WoodCrate_MetallicRoughnessOcclusion.uasset",
+				"C:/Users/richm/OneDrive/Documents/Unreal Projects/FirstProject2/Content/MyStuff/WoodenCrate/WoodCrate_Normal.uasset",
+				"C:/Users/richm/OneDrive/Documents/Unreal Projects/FirstProject2/Content/MyStuff/WoodenCrate/WoodCrate_Roughness.uasset",
+				"C:/Users/richm/OneDrive/Documents/Unreal Projects/FirstProject2/Content/MyStuff/WoodenCrate/MI_WoodenCrate.uasset"
+			]
+		}
+	]
+}
